@@ -1,16 +1,3 @@
-
-# Pharmacy-Management-System
-Chapter 1 
-1. 	INTRODUCTION
-The main aim of the project is the management of the database of the pharmaceutical shop. This project is insight into the design and implementation of a Pharmacy Management System. This is done by creating a database of the available medicines in the shop. The primary aim of pharmacy management system is to improve accuracy and enhance safety and efficiency in the pharmaceutical store. The aim of this project is to develop software for the effective management of a pharmaceutical store. We have developed this software for ensuring effective policing by providing statistics of the drugs in stock. 
-
-1.1. 	Description on the topic
-This program can be used in any pharmaceutical shops having a database to maintain. The software used can generate reports, as per the user’s requirements. The software can print invoices, bills, receipts etc. It can also maintain the record of supplies sent in by the supplier. Here, the admin who are handling the organization will be responsible to manage the record of the employee. Each employee will be given with a separate username and password.
-
-1.2	Problem Definition
-The aim of the project is to create an effective software to help the pharmacist to maintain the records of the medicines, handle user details, generate invoice, check and renew validity and provide a scope of communication between users by using inbuilt messaging system. Pharmacy management system deals with the maintenance of drugs and consumables in the pharmacy unit. This pharmacy management system is user friendly.
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -79,41 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-1.4	Hardware and software tools:
-The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.
-	Hardware Requirements:
-o	Computer with either Intel Pentium processor or AMD processor.
-o	128MB DDR RAM
-o	40GB hard disk drive
-
-
-	Software Requirements:
-o	Windows XP/7/10 operating system.
-o	JRE and JDK.
-o	MySQL server (WAMP or XAMPP or any)
-
-#ScreenShots
-![WhatsApp Image 2020-05-14 at 10 54 12 PM](https://user-images.githubusercontent.com/57304597/82059773-7fb33a80-9694-11ea-8d70-a9382e76b440.jpeg)
-
-2.
-![WhatsApp Image 2020-05-14 at 10 55 12 PM](https://user-images.githubusercontent.com/57304597/82059777-80e46780-9694-11ea-88c5-8cf614688e1f.jpeg)
-
-3.
-![WhatsApp Image 2020-05-14 at 10 55 46 PM (1)](https://user-images.githubusercontent.com/57304597/82059784-82159480-9694-11ea-9e6a-ff1faea477bf.jpeg)
-
-4.
-![WhatsApp Image 2020-05-14 at 10 55 54 PM](https://user-images.githubusercontent.com/57304597/82059788-83df5800-9694-11ea-87e2-77b2a20cb5c0.jpeg)
-
-
-
-
-
-
-
-
-
-
-
-
-
