@@ -48,13 +48,13 @@ o	MySQL server (WAMP or XAMPP or any)
 #ScreenShots
 ![WhatsApp Image 2020-05-14 at 10 54 12 PM](https://user-images.githubusercontent.com/57304597/82059773-7fb33a80-9694-11ea-8d70-a9382e76b440.jpeg)
 
-
+2.
 ![WhatsApp Image 2020-05-14 at 10 55 12 PM](https://user-images.githubusercontent.com/57304597/82059777-80e46780-9694-11ea-88c5-8cf614688e1f.jpeg)
 
-
+3.
 ![WhatsApp Image 2020-05-14 at 10 55 46 PM (1)](https://user-images.githubusercontent.com/57304597/82059784-82159480-9694-11ea-9e6a-ff1faea477bf.jpeg)
 
-
+4.
 ![WhatsApp Image 2020-05-14 at 10 55 54 PM](https://user-images.githubusercontent.com/57304597/82059788-83df5800-9694-11ea-87e2-77b2a20cb5c0.jpeg)
 
 
