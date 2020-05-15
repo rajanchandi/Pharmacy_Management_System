@@ -39,3 +39,9 @@ o	JRE and JDK.
 o	MySQL server (WAMP or XAMPP or any)
 
 # ScreenShots
+
+![WhatsApp Image 2020-05-14 at 10 54 12 PM (1)](https://user-images.githubusercontent.com/57304597/82064822-45996700-969b-11ea-81fd-6468bcc02a4c.jpeg)
+![WhatsApp Image 2020-05-14 at 10 55 54 PM (1)](https://user-images.githubusercontent.com/57304597/82064825-46ca9400-969b-11ea-8e68-ac82cb8f33dc.jpeg)
+![WhatsApp Image 2020-05-14 at 10 55 46 PM (2)](https://user-images.githubusercontent.com/57304597/82064830-47fbc100-969b-11ea-857e-795b27c870a5.jpeg)
+![WhatsApp Image 2020-05-14 at 10 55 12 PM (1)](https://user-images.githubusercontent.com/57304597/82064834-492cee00-969b-11ea-883f-661daafd226b.jpeg)
+
