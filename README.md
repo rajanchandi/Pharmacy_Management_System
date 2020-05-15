@@ -1,4 +1,4 @@
-# Pharmacy_Management_System
+
 # Pharmacy-Management-System
 Chapter 1 
 1. 	INTRODUCTION
@@ -45,7 +45,7 @@ o	Windows XP/7/10 operating system.
 o	JRE and JDK.
 o	MySQL server (WAMP or XAMPP or any)
 
-ScreenShots
+#ScreenShots
 
 
 
